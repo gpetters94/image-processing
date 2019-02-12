@@ -2,7 +2,7 @@
 
 A collection of small programs exploring machine learning and computer vision.
 
-# Acknowledgements
+## Acknowledgements
 
 All code is written by George Petterson and is in the public domain.
 
