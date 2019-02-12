@@ -2,7 +2,7 @@
 
 Implementation of a single-layer neural-network for image classification. Specifically designed to detect the presence of a pedestrian within an image.
 
-# Files
+## Files
 
 hog.py - implementation of a HOG (Histogram of Oriented Gradients).
 

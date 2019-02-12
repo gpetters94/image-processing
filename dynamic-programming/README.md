@@ -2,7 +2,7 @@
 
 Two examples using dynamic programming to modify images.
 
-# Files
+## Files
 
 stereo-match.py - takes left and right input images, outputs a disparity map.
 

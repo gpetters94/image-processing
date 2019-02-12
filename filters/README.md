@@ -2,7 +2,7 @@
 
 Implementation of two non-trivial filters.
 
-# Files
+## Files
 
 bilateral.py - implementation of a bilateral filter.
 
