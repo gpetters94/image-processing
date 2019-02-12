@@ -2,6 +2,10 @@
 
 A collection of small programs exploring machine learning and computer vision.
 
+## Specifications
+
+All code is written in Python 3. Some of it uses numpy, pillow, and pytorch.
+
 ## Acknowledgements
 
 All code is written by George Petterson and is in the public domain.
